@@ -65,7 +65,6 @@ const [createStudent,res] = useCreateStudentMutation();
 
        {/* {show ?<div><h1>Progress : {progress}</h1></div>:''} */}
 
-   
             </div>
         </div>
     )
